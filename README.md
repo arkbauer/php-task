@@ -1,7 +1,7 @@
 # Arkbauer PHP test task
 
 ## Description
-Task is related to online e-commerce where product stock is managed so that user can add products to their shopping cart
+Task is related to online e-commerce where product stock is managed so that user can add products to the shopping cart
 
 ## Your task
 Implement user shopping expierence in code with following features:
