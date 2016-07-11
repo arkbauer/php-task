@@ -15,4 +15,4 @@ Implement user shopping expierence in code with following features:
 - Use PHP7
 - Comments and code must be in English language
 - There is no need for UI
-- As as result we need Your source code for this task - preferably Github repo
+- As as result we need Your source code for this task - preferably link to public Github repo
