@@ -10,7 +10,7 @@ Implement user shopping expierence in code with following features:
 - You can get cart subtotal, vat amount and total at any time
 
 ## Requirements
-- Use given [interfaces](/src) for You implementation
+- Use given [interfaces](/src) for Your implementation
 - Use TDD approach
 - Use PHP7
 - Comments and code must be in English language
